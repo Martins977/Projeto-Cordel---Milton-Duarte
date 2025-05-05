@@ -48,7 +48,7 @@ section {
 }
 
 #img01 {
-  background-image: url('/imagens/background001.jpg');
+  background-image: url("../imagens/background001.jpg");
   background-position: center bottom;
   background-size: cover;
 }
@@ -56,7 +56,7 @@ section {
   color: white;
 }
 #img02 {
-  background-image: url('/imagens/background002.jpg');
+  background-image: url("../imagens/background002.jpg");
 }
 
 .normal {
